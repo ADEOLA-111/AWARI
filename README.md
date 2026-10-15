@@ -1,4 +1,4 @@
-GeoNexus Nigeria
+GeoNexus Africa
 
 Connecting Geological Data. Unlocking Mineral Potential.
 
