@@ -1,10 +1,10 @@
-GeoNexus Africa
+AWARI
 
 Connecting Geological Data. Unlocking Mineral Potential.
 
 1. Project Overview
 
-GeoNexus is a proposed geological data integration platform designed to improve access to Nigerian geological information for mineral exploration.
+AWARI is a proposed geological data integration platform designed to improve access to Nigerian geological information for mineral exploration.
 
 The project focuses on the challenge of old, scattered, and poorly organised geological information.
 
@@ -14,7 +14,7 @@ Geological maps, mineral occurrence records, historical exploration reports, and
 
 3. Proposed Solution
 
-GeoNexus aims to bring available geological information into a centralised, searchable platform with interactive mapping and data-quality indicators.
+AWARI aims to bring available geological information into a centralised, searchable platform with interactive mapping and data-quality indicators.
 
 4. Planned Features
 
@@ -46,4 +46,4 @@ Official and other suitable sources will be documented as datasets are identifie
 
 9. Disclaimer
 
-GeoNexus is a proposed decision-support tool. Its outputs will not independently confirm the presence of an economic mineral deposit; exploration targets require appropriate geological validation.
+AWARI is a proposed decision-support tool. Its outputs will not independently confirm the presence of an economic mineral deposit; exploration targets require appropriate geological validation.
